@@ -1,0 +1,16 @@
+{
+  "name": "brickjs-commit",
+  "version": "1.0.0",
+  "description": "BrickJS Commitizen",
+  "author": "Vito Limandibhrata <vito.limandibhrata@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brickjs/commit.git"
+  },
+  "bin": "./brickjs-cli.js",
+  "dependencies": {
+    "commitizen": "4.1.2",
+    "cz-conventional-changelog": "3.2.0"
+  }
+}
